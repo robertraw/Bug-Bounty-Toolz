@@ -1,5 +1,5 @@
 # by m4ll0k - github.com/m4ll0k 
-# (@m4ll0k2)
+# (@m4ll0k2) editted
 
 import requests 
 from jsbeautifier import beautify
